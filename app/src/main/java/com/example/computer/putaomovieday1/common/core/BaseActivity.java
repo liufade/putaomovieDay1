@@ -26,6 +26,7 @@ public class BaseActivity extends AppCompatActivity {
     }
 
     /**
+     * 东方闪电
      * 隐藏加载框
      */
     public void dismissLoadingDialog(){
